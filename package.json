@@ -10,6 +10,7 @@
     "react-accessible-accordion": "^5.0.0",
     "react-dom": "^18.3.1",
     "react-scripts": "5.0.1",
+    "react-select-async-paginate": "^0.7.4",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
